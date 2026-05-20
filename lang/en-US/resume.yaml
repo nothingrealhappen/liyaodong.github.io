@@ -34,6 +34,22 @@ project:
   technology: Tech Stack
   role: Role
   history:
+    - name: web3-infrastructure
+      role: Senior Full Stack Engineer
+      title: Web3 Infrastructure Products - Naming System, Wallet, and On-chain Data Products
+      contents:
+        - Led Web App development for ENS-like naming system products on emerging blockchain networks, collaborating closely with on-chain engineers on smart contract integration, multi-chain data flows, UI implementation, and automated testing.
+        - Integrated application-layer experiences across Ethereum, Solana, CKB, and TON ecosystems, connecting on-chain identity, wallet addresses, contract interfaces, and front-end product workflows.
+        - Built a wallet-address PNL analytics engine over 10M+ transaction records, using third-party indexers, subgraphs, and on-chain datasets to analyze trading behavior, profitability, and wallet-level performance signals at scale.
+        - Developed React Native + Expo wallet features involving key derivation, encrypted private-key storage, biometric authentication, and passkey-based login flows.
+        - Adopted Cursor and Claude Code early in production engineering, applying agentic coding workflows for rapid prototyping, test generation, debugging, and automation-heavy delivery.
+        - Practiced harness-style AI engineering by designing context, tool boundaries, verification loops, and regression checks around coding agents, turning AI coding from ad hoc prompting into a more controlled engineering workflow.
+        - Used AI-assisted development to build quantitative trading simulations, data regression tests, and automated on-chain strategy execution experiments, integrating blockchain services with repeatable validation pipelines.
+        - Shipped privacy-sensitive Web3 products under fast-changing requirements by combining deep knowledge of LLM behavior, blockchain primitives, smart contract interfaces, and on-chain data indexing constraints.
+      link: ""
+      date: May 2024 - May 2026, Remote
+      tech_stack: TypeScript, React, Next.js, Python, Hardhat, Expo, React Native, Ethereum, Solana, CKB, TON, Subgraph, AI Coding, Cursor, Claude Code
+
     - name: deepbits
       role: Full Stack Engineer
       title: Deepbits - Software Supply Chain Security and Compliance(SaaS)
